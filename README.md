@@ -4,7 +4,7 @@ Exploratory data analysis and classification modeling on the Kaggle "Titanic: Ma
 
 ## Contents
 
-- `titanic_eda_modeling.ipynb` — full, reproducible notebook: EDA, data cleaning, feature engineering, model training/tuning, and results.
+- [`titanic_eda_modeling.ipynb`](./titanic_eda_modeling.ipynb) — full, reproducible notebook: EDA, data cleaning, feature engineering, model training/tuning, and results.
 
 ## Approach
 
